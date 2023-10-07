@@ -1,0 +1,5 @@
+nombre,matricula,facu,carrera,promedio,edad,correo
+Antonio, 21760500, Inge, computacion, 90,34,al21760500@ite.edu.mx
+Jesus, 21454898, Ciencias, Computacionales, 80, 29, al32434600@uabc.edu.mx
+juan, ,alimentos, , , , ,
+Luis, 5235655, Licenciatura, Administracion, 95, 34, al54321422@uabc.edu.mx

@@ -1,0 +1,4 @@
+Tipos de datos incorrectos en el renglón 1: Antonio, 21760500, Inge, computacion, 90,34,al21760500@ite.edu.mx
+Tipos de datos incorrectos en el renglón 2: Jesus, 21454898, Ciencias, Computacionales, 80, 29, al32434600@uabc.edu.mx
+Datos incorrectos o incompletos en el renglón 3: juan, ,alimentos, , , , ,
+Tipos de datos incorrectos en el renglón 4: Luis, 5235655, Licenciatura, Administracion, 95, 34, al54321422@uabc.edu.mx
